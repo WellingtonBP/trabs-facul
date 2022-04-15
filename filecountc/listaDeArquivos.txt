@@ -1,0 +1,4 @@
+arquivo6.txt
+arquivo4.txt
+arquivo3.txt
+arquivo2.txt

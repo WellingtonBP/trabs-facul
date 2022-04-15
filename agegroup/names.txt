@@ -1,0 +1,9 @@
+Fátima 42
+Wellington 21
+Wesley 23
+Maria 60
+Pereira 21
+Soares 21
+Zena 60
+Andre 70
+Joao 60
